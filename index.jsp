@@ -66,9 +66,9 @@
 			<table align="right">
 			
 			<tr align="center"><td style="color: navy;"><B>Notice</B></td></tr>
-			<tr><td><div><marquee direction="up" width="300px" truespeed="truespeed" onmouseover="stop()" onmouseout="start()" style="color: red;">Last Date of fee Submission is 15/10/12
-															     After that You'll have to pay 50 rupees 
-															     per day as a fine and your tutuion fee
+			<tr><td><div><marquee direction="up" width="300px" truespeed="truespeed" onmouseover="stop()" onmouseout="start()" style="color: red;">Last Date of assignment Submission is 31/5/21
+															     After that You'll have to lose 50 points 
+															     per day in you final grade
 															     exclusively </marquee></div></td></tr></table>
 		<center><a href="admin.jsp"><font style="color: navy; ">Login As Administrator</font></a></center>
 	<div id="sidebar">
@@ -101,7 +101,7 @@
 	
 			<div id="header">
 					<h4>
-						Copyright 2012 All rights reserved.fore more information please visit: <a href="www.javatpoint.com"><font style="color: yellow;">javatpoint.com</font></a>
+						Copyright 2021 All rights reserved. fore more information please visit: <a href="https://github.com/Hodjy/devops-final-project"><font style="color: yellow;">https://github.com/Hodjy/devops-final-project</font></a>
 					</h4>
 			</div>
 
